@@ -1,0 +1,2 @@
+# FakeNewsPredictor
+Detects fake news
